@@ -47,7 +47,7 @@
         <reverted_from/>
         <source>79b56fde07949010189bf0269c1ed078</source>
         <source_table>sys_upgrade_history</source_table>
-        <state>previous</state>
+        <state>current</state>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-23 09:55:20</sys_created_on>
         <sys_id>3ab5efde07949010189bf0269c1ed00a</sys_id>
